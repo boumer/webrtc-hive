@@ -1,6 +1,6 @@
 {
-  "name": "webrtc-swarm",
-  "version": "2.9.0",
+  "name": "webrtc-hive",
+  "version": "1.0.0",
   "description": "Create a swarm of p2p connections using webrtc and a signalhub",
   "main": "index.js",
   "scripts": {
@@ -22,12 +22,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/mafintosh/webrtc-swarm.git"
+    "url": "https://github.com/mafintosh/webrtc-hive.git"
   },
-  "author": "Mathias Buus (@mafintosh)",
+  "author": "Caio Gondim",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/mafintosh/webrtc-swarm/issues"
+    "url": "https://github.com/mafintosh/webrtc-hive/issues"
   },
-  "homepage": "https://github.com/mafintosh/webrtc-swarm"
+  "homepage": "https://github.com/mafintosh/webrtc-hive"
 }
